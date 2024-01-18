@@ -1,0 +1,33 @@
+Product-1
+Save:Save: 3,101৳
+Image:https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/ryzen-5-2400g-budget-desktop-pc-02-200x200.webp
+Name:AMD Ryzen 5 2400G Budget Gaming Desktop PC
+Price:22,499৳ 25,600৳
+
+
+Product-2
+Save:Save: 2,701৳
+Image:https://www.startech.com.bd/image/cache/catalog/desktop-pc/desktop-offer/ryzen-5-5600g-gaming-desktop-pc-02-200x200.webp
+Name:AMD Ryzen 5 5600G Budget Gaming Desktop PC
+Price:27,499৳ 30,200৳
+
+
+Product-3
+Save:Earn Point: 150
+Image:https://www.startech.com.bd/image/cache/catalog/monitor/msi/mp223/mp223-06-200x200.webp
+Name:MSI PRO MP223 21.45" Full HD Business Monitor
+Price:10,200৳
+
+
+Product-4
+Save:Earn Point: 150
+Image:https://www.startech.com.bd/image/cache/catalog/monitor/msi/g244f-e2/g244f-e2-01-200x200.webp
+Name:MSI G244F E2 23.8 inch FHD Rapid IPS 180Hz Gaming Monitor
+Price:25,800৳
+
+
+Product-5
+Save:Earn Point: 220
+Image:https://www.startech.com.bd/image/cache/catalog/monitor/msi/pro-mp273aw/pro-mp273aw-200x200.webp
+Name:MSI PRO MP273AW 27" 100Hz FHD IPS Monitor
+Price:23,500৳

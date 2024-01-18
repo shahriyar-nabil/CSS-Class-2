@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.main{
+    height: 380px;
+    width: 1290px;
+    display: flex;
+    column-gap: 10px;
+    background-color: whitesmoke;
+}
+.main .product-1{
+    background-color: white;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.main .product-1 .product-1-save{
+    height: 22px;
+    width: 95px;
+    display: inline-block;
+    background-color: #6E2594;
+    border-radius: 0 15px 15px 0;
+    text-align: left;
+    color: white;
+}
+
+.main .image{
+    text-align: center;
+}
+
+.main .name{
+    color: black;
+    text-align: left;
+}
+
+.main .current-price{
+    color: orangered;
+    font-size: larger;
+}
+
+.main .old-price{
+    color: black;
+    font-size: small;
+}
+
+
+.main .product-2{
+    background-color: white;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.main .product-2 .product-2-save{
+    height: 22px;
+    width: 95px;
+    display: inline-block;
+    background-color: #6E2594;
+    border-radius: 0 15px 15px 0;
+    text-align: left;
+    color: white;
+}
+
+.main .product-3{
+    background-color: white;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.main .product-4{
+    background-color: white;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.main .product-5{
+    background-color: white;
+    border: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.main .save{
+    height: 22px;
+    width: 115px;
+    background-color: #6E2594;
+    border-radius: 0 15px 15px 0;
+    color: white;
+    display: inline-block;
+    text-align: left;
+}
